@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+data
